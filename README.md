@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Betsegaw-hp
 - 👀 I’m interested in STEM and programming.
-- 🌱 I’m currently learning anything usefull.
+- 🌱 I’m currently learning anything useful.
 
 
 <!---
