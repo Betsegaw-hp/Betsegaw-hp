@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Betsegaw-hp
+- 👋 Hi, little bit about myself:
 - 👀 I’m interested in STEM and programming.
 - 🌱 I’m currently learning anything useful.
 
